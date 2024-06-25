@@ -1,6 +1,6 @@
 # Keeper-App in React
 
-![Main Page](Keeper_app/src/components/screenshots/main.png)
+![Main Page](https://github.com/iamankit7667/Keeper-app/blob/main/src/components/screenshots/main.png)
 
 This is a simple React app for managing notes. You can add or delete notes with animations and other features.
 
