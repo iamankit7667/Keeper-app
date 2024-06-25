@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> temp-branch
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +77,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Keeper-app
 Keeper App is a simple and intuitive note-taking application built with React. This app allows users to quickly jot down their thoughts, tasks, and reminders, ensuring nothing important is forgotten. With a clean and user-friendly interface, Keeper App is perfect for anyone looking to organize their notes efficiently.
 >>>>>>> 440d0afdab4fd9a6b72950872d12e9b16a2d7bf3
+<<<<<<< HEAD
+=======
+=======
+# Keeper-app
+>>>>>>> ca5f178429cffa2c618157de7dcc9bddb662d8d2
+>>>>>>> temp-branch
