@@ -1,14 +1,8 @@
 {
-<<<<<<< HEAD
-  "name": "google_keep",
-  "version": "0.1.0",
-  "private": true,
-=======
   "name": "keeper-app",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://iamankit7667.github.io/Keeper-app",
->>>>>>> temp-branch
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
@@ -26,13 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-<<<<<<< HEAD
-    "eject": "react-scripts eject"
-=======
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
->>>>>>> temp-branch
   },
   "eslintConfig": {
     "extends": [
@@ -56,8 +46,4 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> temp-branch
